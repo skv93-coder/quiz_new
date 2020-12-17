@@ -1,0 +1,72 @@
+.question {
+  width: 90%;
+  height: 60px;
+  border-radius: 10px;
+  text-align: center;
+  font-size: xx-large;
+
+  -webkit-box-shadow: -1px -1px 5px 5px rgb(0 0 0 / 25%);
+  -moz-box-shadow: -1px -1px 5px 5px rgba(0, 164, 164, 0.25);
+  box-shadow: -1px -1px 5px 5px rgb(0 0 0 / 25%);
+}
+
+.input {
+  width: 40%;
+  border-radius: 10px;
+  font-size: x-large;
+  text-align: center;
+  height: 50px;
+  -webkit-box-shadow: -1px -1px 5px 5px rgb(0 0 0 / 25%);
+  -moz-box-shadow: -1px -1px 5px 5px rgba(0, 164, 164, 0.25);
+  box-shadow: -1px -1px 5px 5px rgb(0 0 0 / 25%);
+}
+
+input,
+button,
+p {
+  margin: 4%;
+}
+.centre {
+  display: flex;
+  justify-content: space-around;
+}
+#corecctAns {
+  margin-left: 20%;
+}
+.btn {
+  width: 20%;
+  height: 40px;
+  border-radius: 4px;
+  font-size: 80%;
+  -webkit-box-shadow: -1px -1px 5px 5px rgb(0 0 0 / 25%);
+  -moz-box-shadow: -1px -1px 5px 5px rgba(0, 164, 164, 0.25);
+  box-shadow: -1px -1px 5px 5px rgb(0 0 0 / 25%);
+}
+.btn,
+.hover:hover {
+  color: white;
+  background-color: teal;
+}
+.question-user {
+  width: 90%;
+  font-size: xx-large;
+  background: white;
+  border-radius: 10px;
+  padding-left: 22px;
+  padding-bottom: 5px;
+  -webkit-box-shadow: -1px -1px 5px 5px rgb(0 0 0 / 25%);
+  -moz-box-shadow: -1px -1px 5px 5px rgba(0, 164, 164, 0.25);
+  box-shadow: -1px -1px 5px 5px rgb(0 0 0 / 25%);
+}
+.input-user {
+  width: 40%;
+  min-height: 50px;
+  font-size: x-large;
+  border-radius: 10px;
+  -webkit-box-shadow: -1px -1px 5px 5px rgb(0 0 0 / 25%);
+  -moz-box-shadow: -1px -1px 5px 5px rgba(0, 164, 164, 0.25);
+  box-shadow: -1px -1px 5px 5px rgb(0 0 0 / 25%);
+}
+.heading {
+  text-align: center;
+}
